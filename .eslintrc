@@ -7,7 +7,10 @@
     "camelcase":"error",
     "brace-style":["error", "stroustrup"],
     "curly":"error",
-    "no-empty":"error"
+    "no-empty":"error",
+    "no-multi-spaces":"error",
+    "no-empty-function":"error",
+    "yoda":"error"
   }
 
 }
