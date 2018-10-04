@@ -1,0 +1,13 @@
+{
+  "extends": ["eslint:recommended", "prettier"],
+  "globals": {
+    
+  },
+  "rules":{
+    "camelcase":"error",
+    "brace-style":["error", "stroustrup"],
+    "curly":"error",
+    "no-empty":"error"
+  }
+
+}
